@@ -3,7 +3,7 @@ The below acknowledgements are for packages that In Game Ranking depends on. Eac
 
 ## noblox.js
 ```
-The MIT License (MIT)
+The MIT License
 
 Copyright (c) 2015 Joshua Lanese <froastj@gmail.com>
 
